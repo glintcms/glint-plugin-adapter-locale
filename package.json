@@ -13,9 +13,7 @@
   },
   "author": "Andi Neck",
   "license": "MIT",
-  "dependencies": {
-    "debug": "^2.1.2"
-  },
+  "dependencies": {},
   "bugs": {
     "url": "https://github.com/glintcms/glint-plugin-adapter-locale/issues"
   },
